@@ -2,7 +2,6 @@
 
 Welcome to the Movie Review Sentiment Analysis app! This Streamlit application predicts whether a movie review is positive or negative using a machine learning model.
 
-Site is Live at: https://movie-review-sentiment-analysis-2.onrender.com/
 
 ## Features
 
